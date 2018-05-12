@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31959
     wikipedia: http://en.wikipedia.org/wiki/Anacreon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26376#Odes-d-Anacr-onTraduction-litt-rale-et-rythmique
 gutenberg_bookshelf:
 - FR Poésie
 - Poetry
